@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35323.107
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFTry", "EFTry\EFTry.csproj", "{E9796953-7569-4D30-9A5C-D3A403648E01}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{92BE0574-1620-4589-8C93-9AA3814875B6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppEF", "ConsoleAppEF\ConsoleAppEF.csproj", "{4928EA0B-662B-4F24-A9A4-28E965DBBAC6}"
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E9796953-7569-4D30-9A5C-D3A403648E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E9796953-7569-4D30-9A5C-D3A403648E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E9796953-7569-4D30-9A5C-D3A403648E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E9796953-7569-4D30-9A5C-D3A403648E01}.Release|Any CPU.Build.0 = Release|Any CPU
 		{92BE0574-1620-4589-8C93-9AA3814875B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{92BE0574-1620-4589-8C93-9AA3814875B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92BE0574-1620-4589-8C93-9AA3814875B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
